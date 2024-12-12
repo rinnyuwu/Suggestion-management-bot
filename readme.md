@@ -9,6 +9,8 @@ This bot allows users to submit suggestions to a Discord server. Administrators 
 - Suggestion statuses: Suggestions are marked as "approved", or "declined".
 - Role-based access: Only users with specified admin roles can accept or decline suggestions.
 
+![msedge_wpU2fNt3y8](https://github.com/user-attachments/assets/ee3c1da8-5dcd-430c-b4df-bcfb16b6f377)
+
 ## Requirements
 - Programming Language: Python
 - Required Libraries: disnake (for interacting with Discord's API), sqlite3 (for managing the database)
